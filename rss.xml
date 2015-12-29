@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ayrshire Gridiron]]></title>
         <description><![CDATA[Ayrshire Gridiron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ayrshire-gridiron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 23:23:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 23:25:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ayrshire-gridiron/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3c1e1f4-f1a4-4682-bc26-e2b6f7315627.jpg">]]></description>
+            <link>https://thegrid.ai/ayrshire-gridiron/2b0d0fca-ca58-41a5-9856-238b4d3b50cb/index.html</link>
+            <guid isPermaLink="false">2b0d0fca-ca58-41a5-9856-238b4d3b50cb</guid>
+            <pubDate>Tue, 29 Dec 2015 23:25:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kansas v Detroit ]]></title>
             <description><![CDATA[<article><h1>Kansas v Detroit </h1><p>This is a test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a054eafb45093375615ccffbc86aeb54331a7ce1.jpg"></article>]]></description>
-            <link>undefinedkansas-v-detroit/index.html</link>
+            <link>https://thegrid.ai/ayrshire-gridiron/kansas-v-detroit/index.html</link>
             <guid isPermaLink="false">b7184e83-5bde-42f7-9e97-654b0bdd219c</guid>
             <pubDate>Tue, 29 Dec 2015 23:22:56 GMT</pubDate>
         </item>
