@@ -1,0 +1,28 @@
+name: Ayrshire Gridiron
+favicon: null
+layout_spectrum: 0.7089629347901791
+typography_spectrum: 0.8908497614320368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4918276888784021
+  lightness: 0.29881116026081145
+  saturation: 0.06581207225099206
+  rhythmicContrast: 0.6505954372696579
+purpose: []
