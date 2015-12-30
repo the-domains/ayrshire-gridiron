@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: This is a test
-datePublished: '2015-12-29T23:22:56.375Z'
-dateModified: '2015-12-29T23:22:36.975Z'
+datePublished: '2015-12-30T19:30:26.941Z'
+dateModified: '2015-12-29T23:22:56.375Z'
 title: 'Kansas v Detroit '
 author: []
 authors: []
